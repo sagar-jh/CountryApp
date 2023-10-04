@@ -42,10 +42,6 @@ val Countries = listOf(
 
         ),
     Country(
-        name= CountryName("ABC4"), population = 10,area=100.00,flags= CountryFlags("flag"),capital=listOf<String>(),
-
-        ),
-    Country(
         name= CountryName("ABC42"), population = 10,area=100.00,flags= CountryFlags("flag"),capital=listOf<String>(),
 
         ),
